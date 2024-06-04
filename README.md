@@ -14,3 +14,6 @@
 
 ### Run command.js file to build commands
 `node --env-file=.env command.js`
+
+### Environment Variables Required
+- Use your own key values for `TOKEN` and `CLIENT_ID`.
